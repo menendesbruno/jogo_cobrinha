@@ -1,0 +1,1 @@
+Repositório destinado ao projeto para a recriação do jogo da cobrinha em javascript
